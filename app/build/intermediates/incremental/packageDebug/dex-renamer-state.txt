@@ -1,0 +1,7 @@
+#Sat Feb 04 02:38:13 EST 2017
+base.0=G\:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_67bb103a2f5cca90314f731ccb9d86abcca6d5e4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d6403093379f0479af02c4b5b506650771a6e993\\classes.dex
+base.1=G\:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d6403093379f0479af02c4b5b506650771a6e993
+file.0=G\:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_67bb103a2f5cca90314f731ccb9d86abcca6d5e4\\classes.dex

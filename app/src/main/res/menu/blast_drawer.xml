@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dylan.blast.Blast_Main" >
+
+    <item android:id="@+id/new_post"
+        android:enabled="true"
+        android:visible="true"
+        android:title="Blast It Out"
+        android:orderInCategory="110"
+        android:onClick="displayAvailableFiles">
+    </item>
+    <item android:id="@+id/spotify"
+        android:enabled="true"
+        android:visible="true"
+        android:title="Spotify search"
+        android:orderInCategory="110"
+        android:onClick="searchSpotify">
+    </item>
+    <item android:id="@+id/profile"
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/Profile"
+        android:orderInCategory="110"
+        android:onClick="profile">
+    </item>
+    <item android:id="@+id/radius"
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/change_radius"
+        android:orderInCategory="110"
+        android:onClick="radius">
+    </item>
+    <item android:id="@+id/autoplay"
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/autoplay"
+        android:orderInCategory="110"
+        android:onClick="autoplay">
+    </item>
+    <item android:id="@+id/search_users"
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/search_users_title"
+        android:orderInCategory="110"
+        android:onClick="search">
+    </item>
+    <item android:id="@+id/logout"
+        android:enabled="true"
+        android:visible="true"
+        android:title="@string/Logout"
+        android:orderInCategory="110"
+        android:onClick="logout">
+    </item>
+</menu>

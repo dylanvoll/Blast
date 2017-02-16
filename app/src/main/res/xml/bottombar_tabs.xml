@@ -1,0 +1,30 @@
+<tabs>
+    <tab
+        id="@+id/bb_menu_radius"
+        icon="@drawable/ic_radius"
+        title="Radius"
+        inActiveColor="#999999"
+        activeColor="@color/btn_login"
+        />
+    <tab
+        id="@+id/bb_menu_trailing"
+        icon="@drawable/ic_trailing"
+        title="Nearby"
+        inActiveColor="#999999"
+        activeColor="@color/btn_login"
+        />
+    <tab
+        id="@+id/bb_menu_trending"
+        icon="@drawable/ic_trending"
+        title="Friends"
+        inActiveColor="#999999"
+        activeColor="@color/btn_login"
+        />
+    <tab
+        id="@+id/bb_menu_past_blasts"
+        icon="@drawable/ic_pastblast"
+        title="Friends"
+        inActiveColor="#999999"
+        activeColor="@color/btn_login"
+        />
+</tabs>

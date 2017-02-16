@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "424655608694",
+    "project_id": "blast-87fd8"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424655608694:android:83516341d42fa431",
+        "android_client_info": {
+          "package_name": "com.dylan.blast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGpIpcROtBfEBiGt78qNJJv7Sc1BXUYO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

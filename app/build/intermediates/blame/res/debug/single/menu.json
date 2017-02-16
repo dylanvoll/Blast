@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blast__login.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\blast__login.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search__users.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\menu_search__users.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blast__main.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\blast__main.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blast__home.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\blast__home.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\menu_profile.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_post.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\menu_post.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bottombar_menu.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\bottombar_menu.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_launcher.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\menu_launcher.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_user__profile.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\menu_user__profile.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pick_song_from_sd_card.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\pick_song_from_sd_card.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit__song__for__post.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\edit__song__for__post.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blast_drawer.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\blast_drawer.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_trailing_view.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\menu\\menu_trailing_view.xml"
+    }
+]

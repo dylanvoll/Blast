@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.dylan.blast.TrailingView">
+    <item android:id="@+id/home"
+        android:enabled="true"
+        android:visible="true"
+        android:title="Back to Profile"
+        android:orderInCategory="110"
+        android:onClick="back">
+    </item>
+</menu>

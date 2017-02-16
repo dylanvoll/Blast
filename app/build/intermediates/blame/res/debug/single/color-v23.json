@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\color-v23\\abc_tint_default.xml"
+    }
+]

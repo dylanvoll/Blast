@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="70dp"
+    android:descendantFocusability="blocksDescendants"
+    android:weightSum="10"
+    android:orientation="horizontal">
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:layout_height="fill_parent"
+        fresco:placeholderImage="@drawable/profile_default"
+        fresco:actualImageScaleType="fitXY"
+        fresco:roundAsCircle="true"
+        android:id="@+id/user_image"
+        android:layout_weight="2.5"
+        android:padding="2dp"
+        android:minWidth="45dp"
+        android:layout_width="0dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="7.5"
+        android:weightSum="2">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.9"
+            android:minWidth="90dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Medium Text"
+                android:id="@+id/full_name"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"
+                android:textStyle="bold"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Small Text"
+                android:id="@+id/username"
+                android:layout_marginLeft="5dp"
+                android:layout_gravity="bottom"
+                android:layout_marginTop="15dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight=".1"
+            android:paddingRight="2dp">
+
+            <Button
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/trail_button"
+                android:text="Trail"
+                android:textSize="14sp"
+                android:background="@drawable/button_background_white"
+                android:textColor="@color/bg_post_row"
+                android:layout_gravity="center_vertical|end"
+                android:layout_marginRight="5dp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_normal.png",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\seek_thumb_normal.png"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_background.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\comment_background.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_outline.png",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\pause_outline.png"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bb_bottom_bar_top_shadow.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\2.0.2\\res\\drawable\\bb_bottom_bar_top_shadow.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_black.png",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\ic_menu_black.png"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play_button.png",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\play_button.png"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\text_border.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_white.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\button_background_white.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cling_button_bg.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.github.amlcurran.showcaseview\\library\\5.4.3\\res\\drawable\\cling_button_bg.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_disabled.png",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\seek_thumb_disabled.png"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.github.amlcurran.showcaseview\\library\\5.4.3\\res\\drawable\\button_normal.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background_color.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\button_background_color.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_default.png",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\profile_default.png"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\megaphone.png",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\megaphone.png"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blast_logo.jpg",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\blast_logo.jpg"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_artwork.png",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\default_artwork.png"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_pressed.png",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\seek_thumb_pressed.png"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.github.amlcurran.showcaseview\\library\\5.4.3\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\src\\main\\res\\drawable\\button_border.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-beta1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    }
+]

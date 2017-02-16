@@ -1,0 +1,102 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:actionBarStyle">@style/CustomActionBar</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="MyTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:typeface">serif</item>
+        <item name="actionBarStyle">@style/Theme.AppLib.ActionBar.Solid</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/bg_login</item>
+        <item name="colorAccent">@color/input_register</item>
+        <!--<item name="android:actionOverflowButtonStyle">@style/MyActionButtonOverflow</item>-->
+        <item name="colorControlNormal">@color/black</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:typeface">serif</item>
+        <item name="actionBarStyle">@style/Theme.AppLib.ActionBar.Solid</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/bg_login</item>
+        <item name="colorAccent">@color/input_register</item>
+        <!--<item name="android:actionOverflowButtonStyle">@style/MyActionButtonOverflow</item>-->
+        <item name="colorControlNormal">@color/black</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="colorPrimary">@color/btn_login</item>
+        <item name="colorPrimaryDark">@color/bg_login</item>
+        <item name="colorAccent">@color/input_register</item>
+        <item name="colorControlNormal">@color/black</item>
+    </style>
+
+    <style name="CustomActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+    <item name="android:background">@color/white</item>
+    </style>
+    <style name="Theme.AppLib.ActionBar.Solid" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="titleTextStyle">@style/Theme.ActionBar.TitleTextStyle</item>
+    </style>
+    <style name="Theme.ActionBar.TitleTextStyle" parent="">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <!-- Style to replace actionbar overflow icon. set item 'android:actionOverflowButtonStyle' in AppTheme -->
+    <style name="MyActionButtonOverflow" parent="android:style/Widget.Holo.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_navigation_refresh</item>
+    </style>
+
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:background">@color/white</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowFrame">@null</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="CustomTitle" parent="TextAppearance.ShowcaseView.Title">
+        <item name="android:textColor">#00801A</item>
+    </style>
+
+    <style name="CustomTitle2" parent="TextAppearance.ShowcaseView.Title.Light">
+        <item name="android:textColor">#deffffff</item>
+    </style>
+
+    <style name="CustomText2" parent="BB_BottomBarItem_TitleStyle">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="CustomShowcaseTheme3" parent="ShowcaseView.Light">
+        <item name="sv_backgroundColor">#cc26ae90</item>
+        <item name="sv_showcaseColor">#cc26ae90</item>
+        <item name="sv_buttonText">Hide</item>
+        <item name="sv_tintButtonColor">false</item>
+        <item name="sv_titleTextAppearance">@style/CustomTitle2</item>
+        <item name="sv_detailTextAppearance">@style/CustomText2</item>
+    </style>
+
+    <style name="PopupAnimation" parent="Widget.AppCompat.PopupWindow">
+        <item name="android:windowEnterAnimation">@anim/bottom_up</item>
+        <item name="android:windowExitAnimation">@anim/bottom_down</item>
+    </style>
+
+
+
+
+</resources>

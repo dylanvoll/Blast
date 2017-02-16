@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dylan.blast.ProfileActivity">
+    <item android:id="@+id/home"
+        android:enabled="true"
+        android:visible="true"
+        android:title="Blast Home"
+        android:orderInCategory="110"
+        android:onClick="home">
+    </item>
+    <item android:id="@+id/change_password"
+        android:enabled="true"
+        android:visible="true"
+        android:title="Change Password"
+        android:orderInCategory="111"
+        android:onClick="changePassword">
+    </item>
+</menu>

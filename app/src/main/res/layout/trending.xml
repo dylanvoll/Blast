@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:id="@+id/tab3">
+
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/trending_swipe_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ListView
+            android:id="@+id/trending_list_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:listSelector="@android:color/transparent"
+            android:cacheColorHint="@android:color/transparent"
+            android:scrollingCache="false"
+            android:animationCache="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:dividerHeight="2dp">
+
+        </ListView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/noPosts"
+        android:layout_gravity="center"
+        android:visibility="invisible">
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/trending_empty"
+            android:id="@+id/info"
+            android:layout_marginBottom="75dp"
+            android:visibility="visible"
+            android:textSize="20sp"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_gravity="center" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Refresh"
+            android:textColor="@color/white"
+            android:id="@+id/button"
+            android:layout_gravity="center_horizontal"
+            android:onClick="refresh"
+            android:background="@color/bg_post_row" />
+    </LinearLayout>
+
+
+</FrameLayout>

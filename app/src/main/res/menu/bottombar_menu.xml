@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bb_menu_radius"
+        android:icon="@drawable/ic_radius"
+        android:title="Radius" />
+    <item
+        android:id="@+id/bb_menu_trailing"
+        android:icon="@drawable/ic_trailing"
+        android:title="Trailing" />
+    <item
+        android:id="@+id/bb_menu_trending"
+        android:icon="@drawable/ic_trending"
+        android:title="Trending" />
+    <item
+        android:id="@+id/bb_menu_past_blasts"
+        android:icon="@drawable/ic_pastblast"
+        android:title="Past Blasts" />
+</menu>

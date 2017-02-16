@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blast!</string>
+    <string name="autoplay">Autoplay</string>
+    <string name="title_activity_blast__login">Blast!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_blast__main">Blast_Main</string>
+    <string name="server">http://ec2-52-206-231-109.compute-1.amazonaws.com</string>
+    <string name="host">ec2-52-206-231-109.compute-1.amazonaws.com</string>
+    <string name="dbName">blast</string>
+    <string name="dbDriver">com.mysql.jdbc.Driver</string>
+    <string name="dbUserName">appuser</string>
+    <string name="userProfile">User Profile</string>
+    <string name="dbPassword">passW0rd</string>
+    <string name="noSong">No Song Name</string>
+    <string name="noArtist">No Artist</string>
+    <string name="noAlbum">No Album</string>
+    <string name="noMessage">Empty Message...</string>
+    <string name="search_users_title">Search For Users...</string>
+    <string name="register_button">Not Registered? Click Here!</string>
+    <string name="title_activity_blast__home">Blast_Home</string>
+    <string name="New_Blast">Blast It Out!</string>
+    <string name="Trailing_Feeds">Trailing</string>
+    <string name="Blast_From_Past">Blasts From The Past!</string>
+    <string name="title_activity_pick_song_from_sd_card">PickSongFromSdCard</string>
+    <string name="title_activity_edit__song__for__post">Edit_Song_For_Post</string>
+    <string name="title_activity_register_user">register_user</string>
+    <string name="Logout">Logout</string>
+    <string name="Profile">Profile</string>
+    <string name="hint_email">Email</string>
+    <string name="radius_empty">No Posts to display. Try increasing your radius in the menu or get others to post around you!</string>
+    <string name="trailing_empty">No Posts to display. You can trail other people by searching for users from the menu in the top right to see what they are posting!</string>
+    <string name="trending_empty">No Posts to display. It looks like nothing is trending right now, try starting a trend by posting something you like!</string>
+    <string name="pastblast_empty">You haven\'t posted anything yet. Try posting your first song by using the Blast It Out option in the menu!</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_fname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="hint_username">Username</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="change_radius">Change Blast Radius</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now!</string>
+    <string name="btn_link_to_login">Already registered? Login now!</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="title_activity_user__profile">User_Profile</string>
+    <string name="title_activity_search__users">Search_Users</string>
+    <string name="title_activity_launcher_">Blast!</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="radius_array">
+        <item>1 mile</item>
+        <item>5 miles</item>
+        <item>10 miles</item>
+        <item>25 miles</item>
+    </string-array>
+
+    <string-array name="menu_items">
+        <item>Blast It Out</item>
+        <item>Blast It Out (Spotify)</item>
+        <item>Profile</item>
+        <item>Change Blast Radius</item>
+        <item>Autoplay Toggle</item>
+        <item>Search For Users</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="title_activity_trailing__view">Trailing_View</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_trailing_view">TrailingView</string>
+
+</resources>

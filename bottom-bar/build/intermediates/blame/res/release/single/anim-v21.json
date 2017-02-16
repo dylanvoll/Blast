@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\bottom-bar\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "G:\\New Build\\AndroidstudioProjects\\Blast\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "G:\\New Build\\AndroidstudioProjects\\Blast\\bottom-bar\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
